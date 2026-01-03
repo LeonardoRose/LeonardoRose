@@ -1,26 +1,26 @@
 ## Hi, I'm Leonardo Rose
 
-## Business Inteligence Analyst
+## Data Analyst
 
 ## About Me 👨‍💻
-
 I graduated in Industrial Engineer and working as Data Analyst for the past 5 years, I have experience with Operations, Product, Projects and Growth (customer acquistion). With strong technical skills, my expertise is about how to solve problems using data and translate those insights into business language. To keep improving myself, I'm currently studying Data Science seeking new knowledge and better ways to solve problems
 
+🟢 I have experience in:
+- Building dataproducts from scratch to serve business team
+- Customer segmentation
+- Machine Learning Models (Regression, Classification, Clusterization)
+- Modeling and linear optimization to define the best campaign for each customer
+- Cohort
+- Creating Dashboards
 
-
-
-Meu conhecimento técnico inclui ... Também sei .... Atualmente estou aprendendo estudando ...
-
-- Tenho experiencia em: ...  
-  - x  
-  - x  
-  - x  
-  - x
-- Principais ferramentas que uso:
-  - x  
-  - x  
-  - x  
-  - x
+🧠 And about technologies, I'm used with:
+- Python
+- SQL
+- Databricks
+- Sheets
+- Dataviz
+- scikit-learn
+- PuLP (linear programming)
 
 ## My Projects
 ### [Sales Forecast for a drugstore company using Linear Regression](https://github.com/LeonardoRose/Rossman_Store_Sales_Forecast)
