@@ -5,7 +5,7 @@
 ## About Me 👨‍💻
 I graduated in Industrial Engineer and working as Data Analyst for the past 5 years, I have experience with Operations, Product, Projects and Growth (customer acquistion). With strong technical skills, my expertise is about how to solve problems using data and translate those insights into business language. To keep improving myself, I'm currently studying Data Science seeking new knowledge and better ways to solve problems.
 
-🟢 I have experience in:
+🟢 **I have experience in:**
 - Building dataproducts from scratch to serve business team
 - Customer segmentation
 - Machine Learning Models (Regression, Classification, Clusterization)
@@ -13,14 +13,12 @@ I graduated in Industrial Engineer and working as Data Analyst for the past 5 ye
 - Cohort
 - Creating Dashboards
 
-🧠 And about technologies, I'm used with:
-- Python
-- SQL
-- Databricks
-- Sheets
-- Dataviz
-- scikit-learn
-- PuLP (linear programming)
+🧠 **And about technologies, I'm used with:**
+- **Programming & Databases:** Python, SQL
+- **Data Processing:** Databricks
+- **ML & Modeling:** Scikit-learn, PuLP (Linear Programming)
+- **Visualization:** Power BI
+- **Spreadsheets:** Google Sheets
 
 ## My Projects
 ### [Sales Forecast for a drugstore company using Linear Regression](https://github.com/LeonardoRose/Rossman_Store_Sales_Forecast)
