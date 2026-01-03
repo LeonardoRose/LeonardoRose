@@ -31,9 +31,10 @@ I graduated in Industrial Engineer and working as Data Analyst for the past 5 ye
 ### [Fidelity Program with Clusterization](https://github.com/LeonardoRose/clusterization_fidelity_program)
 - Project focused on creating customer segmentation using Clusterization ML Model 
 - The main goal is to identify the premium customers and create a Fidelity Program for them
-### _Linear Optimization Loading_
-- A urban mobility company sends campaigns (extra money if they complete extra runs) to their drivers to increase the time connected and the number of active drivers
-- After several AB Tests to better understand the elasticity about its campaigns
+### _Linear Optimization WIP_
+- In order to boost driver connection time and increase the number of active drivers, the urban mobility company initiates campaigns providing financial bonuses for trip fulfillment.
+- Following several A/B tests, performance metrics (conversion, connection time, and costs) were gathered for each campaign across all driver segments.
+- In this project I developed a Linear Optimization Solver to identify the optimal campaign mix, maximizing company results based on current objectives (driver time or active drivers) and operational restrictions (budget and eligible drivers).
 
 ## 🏆 Competitions 🏆
   - [1st Place in the 7th ComunidadeDS Hackday](https://www.kaggle.com/code/leorosee/pypy-noel-apresentacao#10.-Impactos-para-o-neg%C3%B3cio)
