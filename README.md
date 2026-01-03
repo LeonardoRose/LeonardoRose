@@ -26,12 +26,16 @@ I graduated in Industrial Engineer and working as Data Analyst for the past 5 ye
 ### [Sales Forecast for a drugstore company using Linear Regression](https://github.com/LeonardoRose/Rossman_Store_Sales_Forecast)
 - End-to-end solution where anyone can view the 6-week sales forecast for any Rossmann store
 - I used XGBoost Regressor due its lowest MAPE: ~9.3%
-### [Propensão de compras com Classificação](https://github.com/LeonardoRose/health_insurance_cross_sell)
-### [Programa de fidelidade com Clusterização](https://github.com/LeonardoRose/clusterization_fidelity_program)
-### Otimização Linear (Loading...) 
+### [Propensity Score with Classification](https://github.com/LeonardoRose/health_insurance_cross_sell)
+- End-to-end solution where anyone can view the 6-week sales forecast for any Rossmann store
+- I used XGBoost Regressor due its lowest MAPE: ~9.3%
+### [Fidelity Program with Clusterization](https://github.com/LeonardoRose/clusterization_fidelity_program)
+- End-to-end solution where anyone can view the 6-week sales forecast for any Rossmann store
+- I used XGBoost Regressor due its lowest MAPE: ~9.3%
+### _Linear Optimization Loading_
 
-## Competitions
-  - [1st Place at 7th ComunidadeDS Hackday Edition](https://www.kaggle.com/code/leorosee/pypy-noel-apresentacao#10.-Impactos-para-o-neg%C3%B3cio)
+## 🏆 Competitions 🏆
+  - [1st Place in the 7th ComunidadeDS Hackday](https://www.kaggle.com/code/leorosee/pypy-noel-apresentacao#10.-Impactos-para-o-neg%C3%B3cio)
 
 
 
