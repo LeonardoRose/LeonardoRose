@@ -3,7 +3,7 @@
 ## Data Analyst / Data Science Student 🚀
 
 ## About Me 👨‍💻
-I graduated in Industrial Engineer and working as Data Analyst for the past 5 years, I have experience with Operations, Product, Projects and Growth (customer acquistion). With strong technical skills, my expertise is about how to solve problems using data and translate those insights into business language. To keep improving myself, I'm currently studying Data Science seeking new knowledge and better ways to solve problems.
+I graduated with a degree in Industrial Engineering and have been working as a Data Analyst for the past 5 years. I have experience across Operations, Product, Projects and Growth (customer acquistion). With strong technical skills, my expertise is about how to solve problems using data and translate those insights into business language. Seeking continuous growth, I'm currently studying Data Science to gain new knowledge and better ways to solve problems.
 
 🟢 **I have experience in:**
 - Building dataproducts from scratch to serve business team
