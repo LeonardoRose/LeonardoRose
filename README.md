@@ -21,7 +21,7 @@ I graduated with a degree in Industrial Engineering and have been working as a D
 - **Spreadsheets:** Google Sheets
 
 ## My Projects
-### [Sales Forecast for a drugstore company using Linear Regression](https://github.com/LeonardoRose/Rossman_Store_Sales_Forecast)
+### [Sales Forecast for a drugstore company with Linear Regression](https://github.com/LeonardoRose/Rossman_Store_Sales_Forecast)
 - End-to-end solution where anyone can view the 6-week sales forecast for any Rossmann store
 - I used XGBoost Regressor due its lowest MAPE: ~9.3%
 ### [Propensity Score with Classification](https://github.com/LeonardoRose/health_insurance_cross_sell)
