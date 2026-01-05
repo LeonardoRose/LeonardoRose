@@ -28,10 +28,10 @@ I graduated with a degree in Industrial Engineering and have been working as a D
 - ML Model to calculate the propensity score for each customer to buy a health insurance 
 - Best Model: Gradient Boosting Classifier, achieving a Recall at 40% of 93% (i.e., the top 40% of customers account for 93% of the total buyers)
 - This represents a 117% revenues uplift
-### [Fidelity Program with Clusterization](https://github.com/LeonardoRose/clusterization_fidelity_program)
+### [Fidelity Program with Clusterization - WIP](https://github.com/LeonardoRose/clusterization_fidelity_program)
 - Project focused on creating customer segmentation using Clusterization ML Model 
 - The main goal is to identify the premium customers and create a Fidelity Program for them
-### _Linear Optimization WIP_
+### _Linear Optimization - WIP_
 - In order to boost driver connection time and increase the number of active drivers, the urban mobility company initiates campaigns providing financial bonuses for trip fulfillment.
 - Following several A/B tests, performance metrics (conversion, connection time, and costs) were gathered for each campaign across all driver segments.
 - In this project I developed a Linear Optimization Solver to identify the optimal campaign mix, maximizing company results based on current objectives (driver time or active drivers) and operational restrictions (budget and eligible drivers).
